@@ -1,0 +1,1 @@
+new_weather_api_key="90ff4533c5cb11122af1e623c2582e1a"
